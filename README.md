@@ -1,8 +1,8 @@
 # X-wing-Uglies-Faction
-### This is a entirely new faction for the X-Wing miniatures game. 
+### This is a entirely new faction for the X-Wing miniatures game that I have been working on for the last year.
 New Ships, Dials, Models, and Card images.
 
-If you're looking for amazing new ships and pilots, you might want to look the other way.  If you love just playing over winning then this is for you!
+This is a janky, ridiculous, and super casual faction.  If you want super powerful ships and pilots, you may want to look elsewhere.  But if you like playing the game to just have fun then this is for you!
 
 Download everything here:
 
