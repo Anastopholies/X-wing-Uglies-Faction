@@ -4,6 +4,8 @@ New Ships, Dials, Models, and Card images.
 
 If you're looking for amazing new ships and pilots, you might want to look the other way.  If you love just playing over winning then this is for you!
 
+Everything: https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.1/Full_Version_0.10.1.rar
+
 The identity of this faction are as follows: (with some exceptions)
 1. To be fun, NOT necessarily good.
 2. For every upside there is a downside.
