@@ -14,7 +14,7 @@ The identity of this faction are as follows: (with some exceptions)
 3. Situational abilities.
 4. To stand out as a separate faction, not to feel like any other.
 
-If you like what you see and want me to continue updating with new content, consider buying me a coffee:
+If you like what you see and want to support me in making new x-wing content, consider buying me a coffee:
 
 <a href="https://www.buymeacoffee.com/anastopholies" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
