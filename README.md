@@ -6,7 +6,17 @@ This is a janky, ridiculous, and super casual faction.  If you want super powerf
 
 Download everything here:
 
-https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.1/Full_Version_0.10.1.rar
+.zip
+
+https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.2/Full_Version_0.10.2.zip
+
+.7z
+
+https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.2/Full_Version._0.10.2.7z
+
+.rar
+
+https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.2/Full_Version_0.10.1.rar
 
 The identity of this faction are as follows: (with some exceptions)
 1. To be fun, NOT necessarily good.
