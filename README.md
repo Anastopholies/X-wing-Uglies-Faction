@@ -8,15 +8,12 @@ Download everything here:
 
 .zip
 
-https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.2/Full_Version_0.10.2.zip
+https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.3/Full.Version.10.3.zip
 
 .7z
 
-https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.2/Full_Version._0.10.2.7z
+https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.3/Full.Version.10.3.7z
 
-.rar
-
-https://github.com/Anastopholies/X-wing-Uglies-Faction/releases/download/V0.10.2/Full_Version_0.10.1.rar
 
 The identity of this faction are as follows: (with some exceptions)
 1. To be fun, NOT necessarily good.
