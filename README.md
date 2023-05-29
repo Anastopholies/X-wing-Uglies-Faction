@@ -21,16 +21,16 @@ The identity of this faction are as follows: (with some exceptions)
 4. To stand out as a separate faction, not to feel like any other.
 
 Verson 12.1 Changes
-  -New Z-'Ceptor 3d Model variants.
-  -All Z-'Ceptor pilots now have red Boost.
-  -All X-'Ceptor pilots now have Barrel Roll.
-  -New Pilot "Boulder" for Ranc One.
-  -New "Maps" Tri-TIE ability that is much more interesting.
-  -Pilot Training Buffed.
-  -"Chief" crew Buffed.
-  -A few wording fixes and simplifications.
-  -Uniform Assembly a Configuration as it was supposed to be.
-  -New Points!
+-New Z-'Ceptor 3d Model variants.
+-All Z-'Ceptor pilots now have red Boost.
+-All X-'Ceptor pilots now have Barrel Roll.
+-New Pilot "Boulder" for Ranc One.
+-New "Maps" Tri-TIE ability that is much more interesting.
+-Pilot Training Buffed.
+-"Chief" crew Buffed.
+-A few wording fixes and simplifications.
+-Uniform Assembly a Configuration as it was supposed to be.
+-New Points!
 
 If you like what you see and want to support me in making new x-wing content, consider buying me a coffee:
 
